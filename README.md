@@ -2,7 +2,7 @@
 
 Apesar da abrangência de trilhas distintas de palestras (Code, Interface e Maker), todas convergiram para demonstrar o potencial da Web e das linguagens de alto nível para o novo modelo de sociedade: integralmente dependente e imersa na tecnologia.
 
-Os termos mais utilizados foram `#IoT`, `#CidadesInteligentes`, `#RealidadeDiminuida`, `#Escalabilidade`, `#Microservices` e `#Nanoservices`,  `#ElasticSearch`,  `#Serveless`, `#APIs`, `#HardwareOpenSource`.
+Os termos mais utilizados foram `#IoT`, `#CidadesInteligentes`, `#RealidadeDiminuida`, `#Escalabilidade`, `#Microservices` e `#Nanoservices`,  `#ElasticSearch`,  `#Serverless`, `#APIs`, `#HardwareOpenSource`.
 
 Segue overview das palestras que assisti:
 
